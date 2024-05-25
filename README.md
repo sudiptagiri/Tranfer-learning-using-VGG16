@@ -1,6 +1,6 @@
 # Tranfer-learning-using-VGG16
 Transfer learning is a powerful technique in machine learning where knowledge gained from one task is reused to improve performance on a related task <BR>
-
+<BR>
 How it works:<BR>
 Pre-trained Model: Start with a model that has already been trained for a specific task using a large dataset. This pre-trained model has learned general features and patterns relevant to various related tasks.<BR>
 
